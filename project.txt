@@ -1,6 +1,6 @@
 some intiial data anlaysis to identify inflammation changes
 ## Authors
-Qi Ou: Researcher working in the data analysis
+Qi Ou: Researcher working in the data analysis.
 ## citation
 it has been cited 190 times
 ## Github
