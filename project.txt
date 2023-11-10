@@ -1,1 +1,4 @@
 some intiial data anlaysis to identify inflammation changes
+## Authors
+Qi Ou: Researcher working in the data analysis
+John H: RSE working with some coding 
